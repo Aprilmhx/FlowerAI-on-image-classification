@@ -10,11 +10,7 @@ This project implements image classification on a public dataset ([link]) using 
 
 ### Usage
 This project presets four clients for the federated learning task, with each client’s corresponding run file as follows:
-run server.ipynb
-run client1.ipynb
-run client2.ipynb
-run client3.ipynb
-run client4.ipynb
+run server.ipynb | client1.ipynb | client2.ipynb | client3.ipynb | client4.ipynb
 
 ### Dataset
 https://challenge.isic-archive.com/data/#2019
